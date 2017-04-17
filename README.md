@@ -1,17 +1,11 @@
 
-  NavigationBar随着滚动透明度变化，以及左右按钮的图标及头像更改动画，类似于美丽说APP的设计师店铺首页效果。其中还有项目中使用的文字展开收起的Cell，以及一个毛玻璃弹出框例子。<br/>
-        注：代码没有怎么优化，也没有把View彻底分开，仅供参考。
-
-# AlphaNavigationBar
+这个开源库是我对原有大神的一个开源库的一个修改。效果图没有变化，原有扩可能是版本的问题，并没有显示出来最总的效果我在原有基础想修改而来，吃水不忘挖井人，原库地址:[AlphaNavigationBar](https://github.com/aijun198600/AlphaNavigationBar)
+下面的地址是我自己对修改后的代码分析的一个帖子有问题，咱们随时讨论，
+[我的分析](http://www.jianshu.com/p/1fd305f10eb2)
 
 ## 动画示例截图
 ![image](./img/test2.gif)
 
-## 文字展开Cell示例截图
-![image](./img/test4.gif)
-
-## 毛玻璃弹出框示例截图
-![image](./img/test1.png)
 
 ## 许可信息
 
